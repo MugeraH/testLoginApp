@@ -99,6 +99,7 @@ const Home: NextPage = () => {
               <Button
                 type="submit"
                 fullWidth
+                name="login"
                 variant="contained"
                 sx={{ mt: 3, mb: 2 }}
               >

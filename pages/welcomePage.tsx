@@ -22,6 +22,7 @@ function WelcomeLogin({}: Props) {
 
           <Button
             variant="contained"
+            name="login"
             onClick={() => {
               router.push("/");
             }}
